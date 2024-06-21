@@ -1,0 +1,25 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#medidor{
+    width: 20%;
+    height: 50%;
+
+    background-image: linear-gradient(red, transparent);
+}
+#mais{
+    width: 15%;
+    height: 10%;
+
+}
+#menos{
+    width: 15%;
+    height: 10%;
+}
